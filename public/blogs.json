@@ -1,0 +1,77 @@
+[
+    {
+      "id": 1,
+      "cover": "  https://i.ibb.co.com/gmHc1s2/Rectangle-2.png",
+      "title": "Introduction to C Programming",
+      "description": "Embark on an epic journey through a land of magical creatures, ancient ruins, and untold mysteries. Will the hero uncover the truth hidden within the mystical horizons?",
+      "price": 14.99,
+      "credit": "1"
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/XJ3rhPh/Rectangle-2-1.png",
+      "title": "Introduction to Algorithms",
+      "description": "In a dystopian world ruled by machines, humanity’s last hope lies with a rogue hacker. Can they ignite the spark to reclaim freedom before it’s too late?",
+      "price": 19.99,
+      "credit": "1"
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/DLz74QH/Rectangle-2-2.png",
+      "title": "Introduction to C++ for DSA",
+      "description": "A quiet, eerie town holds dark secrets. Detective Rowan is drawn into a web of lies, supernatural whispers, and a murder case that challenges his understanding of reality.",
+      "price": 12.49,
+      "credit": "3"
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/PrMXzvp/Rectangle-2-3.png",
+      "title": "Basic Data Structures",
+      "description": "Heroes arise from obscurity to battle ancient evils and protect their world. A tale of friendship, courage, and the eternal struggle between light and shadow unfolds magnificently.",
+      "price": 18.75,
+      "credit": "2"
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/TL4LjB2/Rectangle-2-4.png",
+      "title": "Introduction to OOP Python",
+      "description": "Explore mind-bending adventures across parallel dimensions. A brilliant scientist races against time to correct a cataclysmic event, facing challenges that redefine reality and test human ingenuity.",
+      "price": 21.00,
+      "credit": "5"
+    },
+    {
+      "id": 6,
+      "cover": "https://i.ibb.co.com/99XKkVw/Rectangle-2-5.png",
+      "title": "Software Engineering",
+      "description": "Dive into a compelling historical drama where betrayal, power struggles, and a forbidden love story change the course of an empire’s destiny. Secrets buried deep are uncovered.",
+      "price": 16.30,
+      "credit": "8"
+    },
+    {
+      "id": 7,
+      "cover": "https://i.ibb.co.com/JR6TC04/Rectangle-2-6.png",
+      "title": "AWS, Cloud Computing",
+      "description": "An astronaut, stranded in deep space, must navigate survival challenges, unravel cosmic mysteries, and maintain hope amidst despair. A gripping tale of resilience and human spirit.",
+      "price": 23.99,
+      "credit": "3"
+    },
+    {
+      "id": 8,
+      "cover": "https://i.ibb.co.com/XSTmyyD/Rectangle-3.png",
+      "title": "Database (MySQL)",
+      "description": "A timeless romance blossoms across centuries, defying destiny. Two souls, separated by time, must overcome impossible odds to reunite, proving that love transcends the boundaries of time.",
+      "price": 14.20,
+      "credit": "9"
+    },
+    {
+      "id": 9,
+      "cover": "https://i.ibb.co.com/Y8hhBQj/Rectangle-3-1.png",
+      "title": "Problem-Solving Part",
+      "description": "Detective Marshall delves into a chilling case, unearthing sinister secrets. A haunting journey into deception and betrayal that tests his resolve and unveils unexpected truths lurking in shadows.",
+      "price": 17.80,
+      "credit": "2"
+    }
+  ]
+  
+
+
